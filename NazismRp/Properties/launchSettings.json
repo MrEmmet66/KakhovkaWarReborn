@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\MBF SECRET DOCUMENTS\\trash\\sharpServer\\omp-server.exe",
+      "workingDirectory": "D:\\MBF SECRET DOCUMENTS\\trash\\sharpServer"
+    }
+  }
+}
